@@ -24,6 +24,4 @@ dist-ssr
 config.bat
 
 # env files: never commit secrets
-.env
-.env.*
 !.env.example
